@@ -1,0 +1,15 @@
+{
+  "name": "delivery-diagnosis-lab",
+  "version": "1.0.0",
+  "homepage": "https://github.com/facter-holdings/delivery-diagnosis-lab#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facter-holdings/delivery-diagnosis-lab.git"
+  },
+  "scripts": {
+    "dev": "npx browser-sync start --server --files \"*.html, css/*.css\""
+  },
+  "devDependencies": {
+    "browser-sync": "^3.0.4"
+  }
+}
